@@ -1,0 +1,146 @@
+﻿
+elamite = {
+	color = { 0.8 0.2 0.4 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_elamite 
+	language = language_elamite # Should be a unique Elamite one, but maybe do that later
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes # Cybr: Lived in the mountainous regions of SE Iran
+		tradition_dryland_dwellers # Cybr: Khuzestan, a part of the Elamite territory, was desert
+		tradition_religion_blending # Cybr: Mixed together older Elamite (?) gods with Mesopotamian, Iranian, and Hellenic ones
+		tradition_fervent_temple_builders # Cybr: Elamite ziggurats and temples
+		tradition_caravaneers # Cybr: Elamite trade routes between Mesopotamia and the Indus
+	}
+	
+	name_list = name_list_persian # Should be a unique Elamite one, but maybe do that later
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+	ethnicities = {
+		3 = mid_east_bedouin_1
+		2 = iranian_persian_1
+		2 = iranian_persian_2
+		3 = mid_east_bedouin_2
+		2 = iranian_persian_3
+		2 = iranian_persian_4
+		3 = mid_east_bedouin_3
+		2 = iranian_persian_5
+		2 = iranian_persian_6
+		3 = mid_east_bedouin_4
+		2 = iranian_persian_7
+		2 = iranian_persian_8
+		3 = mid_east_bedouin_5
+		2 = iranian_persian_9
+		2 = iranian_persian_10
+		3 = mid_east_bedouin_6
+		2 = iranian_persian_11
+		2 = iranian_persian_12
+		3 = mid_east_bedouin_7
+		2 = iranian_persian_13
+		2 = iranian_persian_14
+		3 = mid_east_bedouin_8
+		2 = iranian_persian_15
+		2 = iranian_persian_16
+		3 = mid_east_bedouin_9
+		2 = iranian_persian_17
+		2 = iranian_persian_18
+		3 = mid_east_bedouin_10
+		2 = iranian_persian_19
+		2 = iranian_persian_20
+		3 = mid_east_bedouin_11
+		2 = iranian_persian_21
+		2 = iranian_persian_22
+		3 = mid_east_bedouin_12
+		2 = iranian_persian_23
+		2 = iranian_persian_24
+		3 = mid_east_bedouin_13
+		2 = iranian_persian_25
+		2 = iranian_persian_26
+		3 = mid_east_bedouin_14
+		2 = iranian_persian_27
+		2 = iranian_persian_28
+		3 = mid_east_bedouin_15
+		2 = iranian_persian_29
+		2 = iranian_persian_30
+		3 = mid_east_bedouin_16
+		2 = iranian_persian_31
+		2 = iranian_persian_32
+		3 = mid_east_bedouin_17
+		2 = iranian_persian_33
+		2 = iranian_persian_34
+		3 = mid_east_bedouin_18
+		2 = iranian_persian_35
+		2 = iranian_persian_36
+		3 = mid_east_bedouin_19
+		2 = iranian_persian_37
+		2 = iranian_persian_38
+		3 = mid_east_bedouin_20
+		2 = iranian_persian_39
+		2 = iranian_persian_40
+		3 = mid_east_bedouin_21
+		2 = iranian_persian_41
+		2 = iranian_persian_42
+		3 = mid_east_bedouin_22
+		2 = iranian_persian_43
+		2 = iranian_persian_44
+		3 = mid_east_bedouin_23
+		2 = iranian_persian_45
+		2 = iranian_persian_46
+		3 = mid_east_bedouin_24
+		2 = iranian_persian_47
+		2 = iranian_persian_48
+		3 = mid_east_bedouin_25
+		2 = iranian_persian_49
+		2 = iranian_persian_50
+		3 = mid_east_bedouin_26
+		2 = iranian_persian_51
+		2 = iranian_persian_52
+		3 = mid_east_bedouin_27
+		2 = iranian_persian_53
+		2 = iranian_persian_54
+		3 = mid_east_bedouin_28
+		2 = iranian_persian_55
+		2 = iranian_persian_56
+		3 = mid_east_bedouin_29
+		2 = iranian_persian_57
+		2 = iranian_persian_58
+		3 = mid_east_bedouin_30
+		2 = iranian_persian_59
+		2 = iranian_persian_60
+		3 = mid_east_bedouin_31
+		2 = iranian_persian_61
+		2 = iranian_persian_62
+		3 = mid_east_bedouin_32
+		2 = iranian_persian_63
+		2 = iranian_persian_64
+		3 = mid_east_bedouin_33
+		2 = iranian_persian_65
+		2 = iranian_persian_66
+		3 = mid_east_bedouin_34
+		2 = iranian_persian_67
+		2 = iranian_persian_68
+		3 = mid_east_bedouin_35
+		2 = iranian_persian_69
+		2 = iranian_persian_70
+		3 = mid_east_bedouin_36
+		2 = iranian_persian_71
+		2 = iranian_persian_72
+		3 = mid_east_bedouin_37
+		2 = iranian_persian_73
+		2 = iranian_persian_74
+		3 = mid_east_bedouin_38
+		2 = iranian_persian_75
+		2 = iranian_persian_76
+		3 = mid_east_bedouin_39
+		2 = iranian_persian_77
+		2 = iranian_persian_78
+		3 = mid_east_bedouin_40
+		2 = iranian_persian_79
+		2 = iranian_persian_80
+	}
+}

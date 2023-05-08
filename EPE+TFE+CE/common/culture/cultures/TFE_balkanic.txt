@@ -1,0 +1,95 @@
+﻿illyrian = {
+	color = { 0.4 0.2 0.2 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_balkanic
+	language = language_illyrian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_practiced_pirates # Cybr: Illyrian pirates
+		tradition_seafaring # Cybr: Famous seafarers
+		tradition_stand_and_fight # Cybr: Resistance to Romans, I dunno
+		# From Illyro-Romans
+		tradition_hill_dwellers # Juli: Illyria is a hilly area
+	}
+	
+	name_list = name_list_illyro_roman
+	
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		2 = european_med_greek_1
+		2 = european_med_greek_2
+		5 = european_south_slavic_blond_1
+		3 = european_caucasian_blond_1
+		2 = european_med_greek_3
+		2 = european_med_greek_4
+		5 = european_south_slavic_blond_2
+		3 = european_caucasian_blond_2
+		2 = european_med_greek_5
+		2 = european_med_greek_6
+		5 = european_south_slavic_blond_3
+		3 = european_caucasian_blond_3
+		2 = european_med_greek_7
+		2 = european_med_greek_8
+		5 = european_south_slavic_brown_1
+		3 = european_caucasian_blond_4
+		2 = european_med_greek_9
+		2 = european_med_greek_10
+		5 = european_south_slavic_brown_2
+		3 = european_caucasian_blond_5
+		2 = european_med_greek_11
+		2 = european_med_greek_12
+		5 = european_south_slavic_brown_3
+		3 = european_caucasian_blond_6
+		2 = european_med_greek_13
+		2 = european_med_greek_14
+		5 = european_south_slavic_brown_4
+		3 = european_caucasian_ginger_1
+		2 = european_med_greek_15
+		2 = european_med_greek_16
+		5 = european_south_slavic_dark_1
+		3 = european_caucasian_ginger_2
+		2 = european_med_greek_17
+		2 = european_med_greek_18
+		5 = european_south_slavic_dark_2
+		3 = european_caucasian_brown_1
+		2 = european_med_greek_19
+		2 = european_med_greek_20
+		5 = european_south_slavic_dark_3
+		3 = european_caucasian_brown_2
+		2 = european_med_greek_21
+		2 = european_med_greek_22
+		3 = european_caucasian_brown_3
+		3 = european_caucasian_brown_4
+		2 = european_med_greek_23
+		2 = european_med_greek_24
+		3 = european_caucasian_brown_5
+		3 = european_caucasian_dark_1
+		2 = european_med_greek_25
+		2 = european_med_greek_26
+		3 = european_caucasian_dark_2
+		3 = european_caucasian_dark_3
+		2 = european_med_greek_27
+		2 = european_med_greek_28
+		3 = european_caucasian_dark_4
+		3 = european_caucasian_dark_5
+		2 = european_med_greek_29
+		2 = european_med_greek_30
+		2 = european_med_greek_31
+		2 = european_med_greek_32
+		2 = european_med_greek_33
+		2 = european_med_greek_34
+		2 = european_med_greek_35
+		2 = european_med_greek_36
+		2 = european_med_greek_37
+		2 = european_med_greek_38
+		2 = european_med_greek_39
+		2 = european_med_greek_40
+		2 = european_med_greek_41
+		2 = european_med_greek_42
+	}
+}

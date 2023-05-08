@@ -1,0 +1,612 @@
+﻿alan = {
+	color = { 100 35 0 }
+	
+	ethos = ethos_communal
+	heritage = heritage_sarmatian
+	language = language_scythian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		#tradition_mountaineers not at this time i belive
+		tradition_quarrelsome
+		tradition_steppe_tolerance
+		tradition_wedding_ceremonies
+		tradition_migrations
+	}
+	
+	name_list = name_list_alan
+	
+	coa_gfx = { steppe_coa_gfx western_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+		10 = european_briton_ginger_1
+		10 = european_briton_ginger_2
+		10 = european_briton_brown_1
+		10 = european_briton_brown_2
+		10 = european_briton_brown_3
+		10 = european_briton_dark_1
+		10 = european_briton_dark_2
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		10 = european_slavic_blond_3
+		10 = european_slavic_blond_4
+		10 = european_slavic_ginger_1
+		10 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		10 = european_slavic_brown_3
+		10 = european_slavic_brown_4
+		10 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+		2 = european_eastern_slavic_1
+		2 = european_eastern_slavic_2
+		2 = european_eastern_slavic_3
+		2 = european_eastern_slavic_4
+		2 = european_eastern_slavic_5
+		2 = european_eastern_slavic_6
+		2 = european_eastern_slavic_7
+		2 = european_eastern_slavic_8
+		2 = european_eastern_slavic_9
+		2 = european_eastern_slavic_10
+		2 = european_eastern_slavic_11
+		2 = european_eastern_slavic_12
+		2 = european_eastern_slavic_13
+		2 = european_eastern_slavic_14
+		2 = european_eastern_slavic_15
+		2 = european_eastern_slavic_16
+		2 = european_eastern_slavic_17
+		2 = european_eastern_slavic_18
+		2 = european_eastern_slavic_19
+		2 = european_eastern_slavic_20
+		2 = european_eastern_slavic_21
+		2 = european_eastern_slavic_22
+		2 = european_eastern_slavic_23
+		2 = european_eastern_slavic_24
+		2 = european_eastern_slavic_25
+		2 = european_eastern_slavic_26
+		2 = european_eastern_slavic_27
+		2 = european_eastern_slavic_28
+		2 = european_eastern_slavic_29
+		2 = european_eastern_slavic_30
+	}
+}
+thyssagataen = {
+	color = { 150 80 10 }
+	
+	ethos = ethos_communal
+	heritage = heritage_sarmatian
+	language = language_scythian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		# Cybr: Quick search reveals literally nothing about these guys
+                # hunter: huh? literraly nothing, not even a mention, from where did the devs toke their name
+		tradition_horse_lords
+		tradition_mountaineers
+		tradition_steppe_tolerance
+		tradition_wedding_ceremonies
+		tradition_nomadic_migrations # Cybr: nomads
+	}
+	
+	name_list = name_list_alan
+	
+	coa_gfx = { steppe_coa_gfx western_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+		15 = caucasian_ginger
+		10 = european_briton_ginger_1
+		10 = european_briton_ginger_2
+		10 = european_briton_brown_1
+		10 = european_briton_brown_2
+		10 = european_briton_brown_3
+		5 = european_briton_dark_1
+		5 = european_briton_dark_2
+		2 = european_caucasian_irish_01
+		2 = european_caucasian_irish_02
+		2 = european_caucasian_irish_03
+		2 = european_caucasian_irish_04
+		2 = european_caucasian_irish_05
+		2 = european_caucasian_irish_06
+		2 = european_caucasian_irish_07
+		2 = european_caucasian_irish_08
+		2 = european_caucasian_irish_09
+		2 = european_caucasian_irish_10
+		2 = european_caucasian_irish_11
+		2 = european_caucasian_irish_12
+		2 = european_caucasian_irish_13
+		2 = european_caucasian_irish_14
+		2 = european_caucasian_irish_15
+		2 = european_caucasian_irish_16
+		2 = european_caucasian_irish_17
+		2 = european_caucasian_irish_18
+		2 = european_caucasian_irish_19
+		2 = european_caucasian_irish_20
+		2 = steppe_volga_finn_mordvin_01
+		2 = steppe_volga_finn_mordvin_02
+		2 = steppe_volga_finn_mordvin_03
+		2 = steppe_volga_finn_mordvin_04
+		2 = steppe_volga_finn_mordvin_05
+		2 = steppe_volga_finn_mordvin_06
+		2 = steppe_volga_finn_mordvin_07
+		2 = steppe_volga_finn_mordvin_08
+		2 = steppe_volga_finn_mordvin_09
+		2 = steppe_volga_finn_mordvin_10
+		2 = steppe_volga_finn_mordvin_11
+		2 = steppe_volga_finn_mordvin_12
+		2 = steppe_volga_finn_mordvin_13
+		2 = steppe_volga_finn_mordvin_14
+		2 = steppe_volga_finn_mordvin_15
+		2 = steppe_volga_finn_mordvin_16
+		2 = steppe_volga_finn_mordvin_17
+		2 = steppe_volga_finn_mordvin_18
+		2 = steppe_volga_finn_mordvin_19
+		2 = steppe_volga_finn_mordvin_20
+	}
+}
+ciscaucasian = {
+	color = { 90 30 5 }
+	
+	ethos = ethos_communal
+	heritage = heritage_sarmatian
+	language = language_lezgic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		#tradition_mountaineers
+		#tradition_mountain_homes # Cybr: Since they live in mountainous regions... I guess?
+                                         # hunter: no they didnt
+		tradition_quarrelsome
+		tradition_steppe_tolerance
+		tradition_wedding_ceremonies
+		tradition_nomadic_migrations # Cybr: nomads
+	}
+	
+	name_list = name_list_alan
+	
+	coa_gfx = { steppe_coa_gfx western_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_daylamite_1
+		2 = iranian_saka_01
+		2 = iranian_daylamite_2
+		2 = steppe_volga_finn_mordvin_01
+		2 = iranian_daylamite_3
+		2 = iranian_saka_02
+		2 = iranian_daylamite_4
+		2 = steppe_volga_finn_mordvin_02
+		2 = iranian_daylamite_5
+		2 = iranian_saka_03
+		2 = iranian_daylamite_6
+		2 = steppe_volga_finn_mordvin_03
+		2 = iranian_daylamite_7
+		2 = iranian_saka_04
+		2 = iranian_daylamite_8
+		2 = steppe_volga_finn_mordvin_04
+		2 = iranian_daylamite_9
+		2 = iranian_saka_05
+		2 = iranian_daylamite_10
+		2 = steppe_volga_finn_mordvin_05
+		2 = iranian_daylamite_11
+		2 = iranian_saka_06
+		2 = iranian_daylamite_12
+		2 = steppe_volga_finn_mordvin_06
+		2 = iranian_daylamite_13
+		2 = iranian_saka_07
+		2 = iranian_daylamite_14
+		2 = steppe_volga_finn_mordvin_07
+		2 = iranian_daylamite_15
+		2 = iranian_saka_08
+		2 = iranian_daylamite_16
+		2 = steppe_volga_finn_mordvin_08
+		2 = iranian_daylamite_17
+		2 = iranian_saka_09
+		2 = iranian_daylamite_18
+		2 = steppe_volga_finn_mordvin_09
+		2 = iranian_daylamite_19
+		2 = iranian_saka_10
+		2 = iranian_daylamite_20
+		2 = steppe_volga_finn_mordvin_10
+		2 = asian_turkic_1_western
+		2 = iranian_saka_11
+		2 = asian_turkic_2_western
+		2 = steppe_volga_finn_mordvin_11
+		2 = asian_turkic_3_western
+		2 = iranian_saka_12
+		2 = asian_turkic_4_western
+		2 = steppe_volga_finn_mordvin_12
+		2 = asian_turkic_5_western
+		2 = iranian_saka_13
+		2 = asian_turkic_6_western
+		2 = steppe_volga_finn_mordvin_13
+		2 = asian_turkic_7_western
+		2 = iranian_saka_14
+		2 = asian_turkic_8_western
+		2 = steppe_volga_finn_mordvin_14
+		2 = asian_turkic_9_western
+		2 = iranian_saka_15
+		2 = asian_turkic_15_western
+		2 = steppe_volga_finn_mordvin_15
+	}
+}
+roxolan = {
+	color = { 70 35 0 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_sarmatian
+	language = language_scythian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_mountaineers
+		tradition_steppe_tolerance
+		tradition_warrior_culture # Cybr: Eh, something to set them apart from the Alans
+		tradition_nomadic_migrations # Cybr: nomads
+	}
+	
+	name_list = name_list_alan
+	
+	coa_gfx = { steppe_coa_gfx western_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+		10 = european_briton_ginger_1
+		10 = european_briton_ginger_2
+		10 = european_briton_brown_1
+		10 = european_briton_brown_2
+		10 = european_briton_brown_3
+		10 = european_briton_dark_1
+		10 = european_briton_dark_2
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		10 = european_slavic_blond_3
+		10 = european_slavic_blond_4
+		10 = european_slavic_ginger_1
+		10 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		10 = european_slavic_brown_3
+		10 = european_slavic_brown_4
+		10 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+		2 = european_eastern_slavic_1
+		2 = european_eastern_slavic_2
+		2 = european_eastern_slavic_3
+		2 = european_eastern_slavic_4
+		2 = european_eastern_slavic_5
+		2 = european_eastern_slavic_6
+		2 = european_eastern_slavic_7
+		2 = european_eastern_slavic_8
+		2 = european_eastern_slavic_9
+		2 = european_eastern_slavic_10
+		2 = european_eastern_slavic_11
+		2 = european_eastern_slavic_12
+		2 = european_eastern_slavic_13
+		2 = european_eastern_slavic_14
+		2 = european_eastern_slavic_15
+		2 = european_eastern_slavic_16
+		2 = european_eastern_slavic_17
+		2 = european_eastern_slavic_18
+		2 = european_eastern_slavic_19
+		2 = european_eastern_slavic_20
+		2 = european_eastern_slavic_21
+		2 = european_eastern_slavic_22
+		2 = european_eastern_slavic_23
+		2 = european_eastern_slavic_24
+		2 = european_eastern_slavic_25
+		2 = european_eastern_slavic_26
+		2 = european_eastern_slavic_27
+		2 = european_eastern_slavic_28
+		2 = european_eastern_slavic_29
+		2 = european_eastern_slavic_30
+	}
+}
+yazige = {
+	color = { 80 40 10 }
+	
+	ethos = ethos_communal
+	heritage = heritage_sarmatian
+	language = language_scythian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists # Cybr: Cattle grazing between the towns they settled in
+		tradition_steppe_tolerance
+		tradition_nomadic_migrations # Cybr: nomads
+	}
+
+	dlc_tradition = { # Cybr: Lived near Romans for a long time
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_alan
+	
+	coa_gfx = { steppe_coa_gfx western_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+		2 = asian_tocharian_1
+		2 = asian_tocharian_2
+		2 = asian_tocharian_3
+		2 = european_caucasian_irish_01
+		2 = asian_tocharian_4
+		2 = asian_tocharian_5
+		2 = asian_tocharian_6
+		2 = european_caucasian_irish_02
+		2 = asian_tocharian_7
+		2 = asian_tocharian_8
+		2 = asian_tocharian_9
+		2 = european_caucasian_irish_03
+		2 = asian_tocharian_10
+		2 = asian_tocharian_11
+		2 = asian_tocharian_12
+		2 = european_caucasian_irish_04
+		2 = asian_tocharian_13
+		2 = asian_tocharian_14
+		2 = asian_tocharian_15
+		2 = european_caucasian_irish_05
+		2 = asian_tocharian_16
+		2 = asian_tocharian_17
+		2 = asian_tocharian_18
+		2 = european_caucasian_irish_06
+		2 = asian_tocharian_19
+		2 = asian_tocharian_20
+		2 = asian_tocharian_21
+		2 = european_caucasian_irish_07
+		2 = asian_tocharian_22
+		2 = asian_tocharian_23
+		2 = asian_tocharian_24
+		2 = european_caucasian_irish_08
+		2 = asian_tocharian_25
+		2 = asian_tocharian_26
+		2 = asian_tocharian_27
+		2 = european_caucasian_irish_09
+		2 = asian_tocharian_28
+		2 = asian_tocharian_29
+		2 = asian_tocharian_30
+		2 = european_caucasian_irish_10
+		2 = asian_tocharian_31
+		2 = asian_tocharian_32
+		2 = asian_tocharian_33
+		2 = european_caucasian_irish_11
+		2 = asian_tocharian_34
+		2 = asian_tocharian_35
+		2 = asian_tocharian_36
+		2 = european_caucasian_irish_12
+		2 = asian_tocharian_37
+		2 = asian_tocharian_38
+		2 = asian_tocharian_39
+		2 = european_caucasian_irish_13
+		2 = asian_tocharian_40
+		2 = asian_tocharian_41
+		2 = asian_tocharian_42
+		2 = european_caucasian_irish_14
+		2 = asian_tocharian_43
+		2 = asian_tocharian_44
+		2 = asian_tocharian_45
+		2 = european_caucasian_irish_15
+		10 = european_briton_ginger_1
+		10 = european_briton_ginger_2
+		10 = european_briton_brown_1
+		10 = european_briton_brown_2
+		10 = european_briton_brown_3
+		5 = european_briton_dark_1
+		5 = european_briton_dark_2
+	}
+}
+taifal = {
+	color = { 70 25 5 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_sarmatian
+	language = language_vandalic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_warrior_culture # Cybr: Taking stuff I see in Germanic culture to emphasize their blend
+		tradition_tribe_unity # Cybr: Taking stuff I see in Germanic culture to emphasize their blend
+	}
+
+	dlc_tradition = { # Cybr: Living in different parts of the Roman Empire?
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_alan
+	
+	coa_gfx = { steppe_coa_gfx western_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+		2 = asian_tocharian_1
+		2 = asian_tocharian_2
+		2 = asian_tocharian_3
+		2 = european_caucasian_irish_01
+		2 = asian_tocharian_4
+		2 = asian_tocharian_5
+		2 = asian_tocharian_6
+		2 = european_caucasian_irish_02
+		2 = asian_tocharian_7
+		2 = asian_tocharian_8
+		2 = asian_tocharian_9
+		2 = european_caucasian_irish_03
+		2 = asian_tocharian_10
+		2 = asian_tocharian_11
+		2 = asian_tocharian_12
+		2 = european_caucasian_irish_04
+		2 = asian_tocharian_13
+		2 = asian_tocharian_14
+		2 = asian_tocharian_15
+		2 = european_caucasian_irish_05
+		2 = asian_tocharian_16
+		2 = asian_tocharian_17
+		2 = asian_tocharian_18
+		2 = european_caucasian_irish_06
+		2 = asian_tocharian_19
+		2 = asian_tocharian_20
+		2 = asian_tocharian_21
+		2 = european_caucasian_irish_07
+		2 = asian_tocharian_22
+		2 = asian_tocharian_23
+		2 = asian_tocharian_24
+		2 = european_caucasian_irish_08
+		2 = asian_tocharian_25
+		2 = asian_tocharian_26
+		2 = asian_tocharian_27
+		2 = european_caucasian_irish_09
+		2 = asian_tocharian_28
+		2 = asian_tocharian_29
+		2 = asian_tocharian_30
+		2 = european_caucasian_irish_10
+		2 = asian_tocharian_31
+		2 = asian_tocharian_32
+		2 = asian_tocharian_33
+		2 = european_caucasian_irish_11
+		2 = asian_tocharian_34
+		2 = asian_tocharian_35
+		2 = asian_tocharian_36
+		2 = european_caucasian_irish_12
+		2 = asian_tocharian_37
+		2 = asian_tocharian_38
+		2 = asian_tocharian_39
+		2 = european_caucasian_irish_13
+		2 = asian_tocharian_40
+		2 = asian_tocharian_41
+		2 = asian_tocharian_42
+		2 = european_caucasian_irish_14
+		2 = asian_tocharian_43
+		2 = asian_tocharian_44
+		2 = asian_tocharian_45
+		2 = european_caucasian_irish_15
+		10 = european_briton_ginger_1
+		10 = european_briton_ginger_2
+		10 = european_briton_brown_1
+		10 = european_briton_brown_2
+		10 = european_briton_brown_3
+		5 = european_briton_dark_1
+		5 = european_briton_dark_2
+	}
+}
+
+kangju = {
+	color = { 100 30 0 }
+
+	parents = { saka sogdian }
+
+	created = 2.1.1
+	history_loc_override = kangju_history_loc
+	
+	ethos = ethos_communal
+	heritage = heritage_sarmatian
+	language = language_scythian
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_horse_lords
+		tradition_steppe_tolerance
+		tradition_city_keepers
+	}
+
+	dlc_tradition = { # Cybr: Lived near Romans for a long time
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_sogdian
+	
+	coa_gfx = { steppe_coa_gfx western_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_sogdian_01
+		2 = iranian_saka_01
+		2 = iranian_sogdian_02
+		2 = iranian_saka_02
+		2 = iranian_sogdian_03
+		2 = iranian_saka_03
+		2 = iranian_sogdian_04
+		2 = iranian_saka_04
+		2 = iranian_sogdian_05
+		2 = iranian_saka_05
+		2 = iranian_sogdian_06
+		2 = iranian_saka_06
+		2 = iranian_sogdian_07
+		2 = iranian_saka_07
+		2 = iranian_sogdian_08
+		2 = iranian_saka_08
+		2 = iranian_sogdian_09
+		2 = iranian_saka_09
+		2 = iranian_sogdian_10
+		2 = iranian_saka_10
+		2 = iranian_sogdian_11
+		2 = iranian_saka_11
+		2 = iranian_sogdian_12
+		2 = iranian_saka_12
+		2 = iranian_sogdian_13
+		2 = iranian_saka_13
+		2 = iranian_sogdian_14
+		2 = iranian_saka_14
+		2 = iranian_sogdian_15
+		2 = iranian_saka_15
+		2 = iranian_sogdian_16
+		2 = iranian_saka_16
+		2 = iranian_sogdian_17
+		2 = iranian_saka_17
+		2 = iranian_sogdian_18
+		2 = iranian_saka_18
+		2 = iranian_sogdian_19
+		2 = iranian_saka_19
+		2 = iranian_sogdian_20
+		2 = iranian_saka_20
+		2 = iranian_sogdian_21
+		2 = asian_turkic_1_western
+		2 = iranian_sogdian_22
+		2 = asian_turkic_2_western
+		2 = iranian_sogdian_23
+		2 = asian_turkic_3_western
+		2 = iranian_sogdian_24
+		2 = asian_turkic_4_western
+		2 = iranian_sogdian_25
+		2 = asian_turkic_5_western
+		2 = iranian_sogdian_26
+		2 = asian_turkic_6_western
+		2 = iranian_sogdian_27
+		2 = asian_turkic_7_western
+		2 = iranian_sogdian_28
+		2 = asian_turkic_8_western
+		2 = iranian_sogdian_29
+		2 = asian_turkic_9_western
+		2 = iranian_sogdian_30
+		2 = asian_turkic_15_western
+		2 = iranian_sogdian_31
+		2 = asian_turkic_16_western
+		2 = iranian_sogdian_32
+		2 = asian_turkic_17_western
+		2 = iranian_sogdian_33
+		2 = asian_turkic_19_western
+		2 = iranian_sogdian_34
+		2 = asian_turkic_20_western
+		2 = iranian_sogdian_35
+		2 = asian_turkic_23_western
+	}
+}

@@ -1,0 +1,179 @@
+﻿dacian = {
+	color = { 143 40 60 }
+
+	ethos = ethos_stoic
+	heritage = heritage_daco_thracian
+	language = language_dacian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stalwart_defenders
+		tradition_formation_fighting
+		tradition_ancient_miners # Cybr: Apparently Dacia's mines were in demand
+		tradition_castle_keepers # Cybr: Fortified settlements surrounded by villages
+		tradition_metal_craftsmanship # Cybr: High degree of sophistication with goldsmithing and metalsmithing
+	}
+	
+	name_list = name_list_dacio_roman # Should have their own namelist type in the future
+	
+	coa_gfx = { latin_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx  }
+	unit_gfx = { late_roman_unit_gfx }
+
+	ethnicities = {
+		3 = european_caucasian_blond_1
+		2 = european_vlach_01
+		3 = european_caucasian_blond_2
+		2 = european_vlach_02
+		3 = european_caucasian_blond_3
+		2 = european_vlach_03
+		3 = european_caucasian_blond_4
+		2 = european_vlach_04
+		3 = european_caucasian_blond_5
+		2 = european_vlach_05
+		3 = european_caucasian_blond_6
+		2 = european_vlach_06
+		3 = european_caucasian_northern_blond_7_baltic
+		2 = european_vlach_07
+		3 = european_caucasian_ginger_1
+		2 = european_vlach_08
+		3 = european_caucasian_ginger_2
+		2 = european_vlach_09
+		1 = european_caucasian_northern_ginger_1
+		2 = european_vlach_10
+		1 = european_caucasian_northern_ginger_2
+		2 = european_vlach_11
+		1 = european_caucasian_northern_ginger_3
+		2 = european_vlach_12
+		3 = european_caucasian_brown_1
+		2 = european_vlach_13
+		3 = european_caucasian_brown_2
+		2 = european_vlach_14
+		3 = european_caucasian_brown_3
+		2 = european_vlach_15
+		3 = european_caucasian_brown_4
+		2 = european_vlach_16
+		3 = european_caucasian_brown_5
+		2 = european_vlach_17
+		4 = european_caucasian_northern_brown_1
+		2 = european_vlach_18
+		4 = european_caucasian_northern_brown_2
+		2 = european_vlach_19
+		4 = european_caucasian_northern_brown_3
+		2 = european_vlach_20
+		4 = european_caucasian_northern_brown_4
+		2 = european_vlach_21
+		4 = european_caucasian_northern_brown_5
+		2 = european_vlach_22
+		4 = european_caucasian_northern_brown_6
+		2 = european_vlach_23
+		4 = european_caucasian_northern_brown_7
+		2 = european_vlach_24
+		4 = european_caucasian_northern_brown_8
+		2 = european_vlach_25
+		3 = european_caucasian_dark_1
+		2 = european_vlach_26
+		3 = european_caucasian_dark_2
+		2 = european_vlach_27
+		3 = european_caucasian_dark_3
+		2 = european_vlach_28
+		3 = european_caucasian_dark_4
+		2 = european_vlach_29
+		3 = european_caucasian_dark_5
+		2 = european_vlach_30
+		5 = mediterranean
+	}
+}
+
+thracian = {
+	color = { 108 20 50 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_daco_thracian
+	language = language_thracian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		#tradition_adaptive_skirmishing # Cybr: Well known for skirmishing
+		tradition_hit_and_run # Cybr: Known for being excellent cavalrymen
+		tradition_swords_for_hire # Cybr: Sought after mercenaries for Greeks and Romans, many served in Roman armies
+		#tradition_pastoralists # Cybr: It's there in the region I guess
+		tradition_mystical_ancestors # Cybr: Thracian kings were believed to have divine origins
+		tradition_orpheus # Cybr: Orpheus was an important figure in Thracian culture and religion
+	}
+
+	dlc_tradition = { # Cybr: Persian and Greek influences
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_thracio_roman # Should have their own namelist type in the future
+	
+	coa_gfx = { latin_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx  }
+	unit_gfx = { late_roman_unit_gfx }
+
+	ethnicities = {
+		3 = european_caucasian_blond_1
+		2 = european_vlach_01
+		3 = european_caucasian_blond_2
+		2 = european_vlach_02
+		3 = european_caucasian_blond_3
+		2 = european_vlach_03
+		3 = european_caucasian_blond_4
+		2 = european_vlach_04
+		3 = european_caucasian_blond_5
+		2 = european_vlach_05
+		3 = european_caucasian_blond_6
+		2 = european_vlach_06
+		3 = european_caucasian_northern_blond_7_baltic
+		2 = european_vlach_07
+		3 = european_caucasian_ginger_1
+		2 = european_vlach_08
+		3 = european_caucasian_ginger_2
+		2 = european_vlach_09
+		1 = european_caucasian_northern_ginger_1
+		2 = european_vlach_10
+		1 = european_caucasian_northern_ginger_2
+		2 = european_vlach_11
+		1 = european_caucasian_northern_ginger_3
+		2 = european_vlach_12
+		3 = european_caucasian_brown_1
+		2 = european_vlach_13
+		3 = european_caucasian_brown_2
+		2 = european_vlach_14
+		3 = european_caucasian_brown_3
+		2 = european_vlach_15
+		3 = european_caucasian_brown_4
+		2 = european_vlach_16
+		3 = european_caucasian_brown_5
+		2 = european_vlach_17
+		4 = european_caucasian_northern_brown_1
+		2 = european_vlach_18
+		4 = european_caucasian_northern_brown_2
+		2 = european_vlach_19
+		4 = european_caucasian_northern_brown_3
+		2 = european_vlach_20
+		4 = european_caucasian_northern_brown_4
+		2 = european_vlach_21
+		4 = european_caucasian_northern_brown_5
+		2 = european_vlach_22
+		4 = european_caucasian_northern_brown_6
+		2 = european_vlach_23
+		4 = european_caucasian_northern_brown_7
+		2 = european_vlach_24
+		4 = european_caucasian_northern_brown_8
+		2 = european_vlach_25
+		3 = european_caucasian_dark_1
+		2 = european_vlach_26
+		3 = european_caucasian_dark_2
+		2 = european_vlach_27
+		3 = european_caucasian_dark_3
+		2 = european_vlach_28
+		3 = european_caucasian_dark_4
+		2 = european_vlach_29
+		3 = european_caucasian_dark_5
+		2 = european_vlach_30
+		5 = mediterranean
+	}
+}

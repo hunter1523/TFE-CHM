@@ -1,0 +1,64 @@
+﻿
+
+di = { # Di peoples
+	color = { 0.79 0.68 0.56 }
+	
+	ethos = ethos_communal
+	heritage = heritage_qiangic
+	language = language_qiangic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_himalayan_settlers	# Cybr: I guess Himalayas? Other Qiang cultures have it
+		tradition_artisans				# Cybr: According to the Weilue, they were skilled at weaving cloth
+		tradition_agrarian				# Cybr: According to the Weilue, they were good farmers
+	}
+
+	# Cybr: Mixed with Chinese
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_di
+	
+	coa_gfx = { tibetan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+
+			20 = asian_tibetan_1
+			4 = asian_turkic_1
+			4 = asian_turkic_2
+			4 = asian_turkic_3
+			4 = asian_turkic_4
+			4 = asian_turkic_5
+			20 = asian_tibetan_2
+			4 = asian_turkic_6
+			4 = asian_turkic_7
+			4 = asian_turkic_8
+			4 = asian_turkic_9
+			4 = asian_turkic_10
+			20 = asian_tibetan_3
+			4 = asian_turkic_11
+			4 = asian_turkic_12
+			4 = asian_turkic_13
+			4 = asian_turkic_14
+			4 = asian_turkic_15
+			20 = asian_tibetan_4
+			4 = asian_turkic_16_eastern
+			4 = asian_turkic_17_eastern
+			4 = asian_turkic_18
+			4 = asian_turkic_19
+			4 = asian_turkic_20
+			20 = asian_tibetan_5
+			4 = asian_turkic_21
+			4 = asian_turkic_22
+			4 = asian_turkic_22
+			4 = asian_turkic_23
+			4 = asian_turkic_24
+			4 = asian_turkic_25
+		        10 = asian
+	}
+}

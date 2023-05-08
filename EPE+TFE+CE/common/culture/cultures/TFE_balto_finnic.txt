@@ -1,0 +1,613 @@
+﻿finnish = {
+	color = finnish
+	created = 350.1.1
+	parents = { fenni }
+	
+	ethos = ethos_stoic
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_isolationist
+		tradition_fishermen
+	}
+	
+	name_list = name_list_finnish
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+	ethnicities = {
+		25 = circumpolar_dark_hair
+		2 = steppe_volga_finn_mordvin_01
+		25 = circumpolar_brown_hair
+		2 = steppe_volga_finn_mordvin_02 
+		25 = circumpolar_blonde_hair
+		2 = steppe_volga_finn_mordvin_03
+		6 = european_caucasian_northern_blond_1
+		2 = steppe_volga_finn_mordvin_04
+		5 = european_caucasian_northern_blond_2
+		2 = steppe_volga_finn_mordvin_05
+		6 = european_caucasian_northern_blond_3
+		2 = steppe_volga_finn_mordvin_06
+		6 = european_caucasian_northern_blond_4
+		2 = steppe_volga_finn_mordvin_07
+		5 = european_caucasian_northern_blond_5
+		2 = steppe_volga_finn_mordvin_08
+		6 = european_caucasian_northern_blond_6
+		2 = steppe_volga_finn_mordvin_09
+		5 = european_caucasian_northern_blond_7_baltic
+		2 = steppe_volga_finn_mordvin_10
+		3 = european_caucasian_northern_blond_9
+		2 = steppe_volga_finn_mordvin_11
+		3 = european_caucasian_northern_blond_10
+		2 = steppe_volga_finn_mordvin_12
+		3 = european_caucasian_northern_blond_11
+		2 = steppe_volga_finn_mordvin_13
+		3 = european_caucasian_northern_blond_12
+		2 = steppe_volga_finn_mordvin_14
+		3 = european_caucasian_northern_blond_13
+		2 = steppe_volga_finn_mordvin_15
+		3 = european_caucasian_northern_blond_14
+		2 = steppe_volga_finn_mordvin_16
+		3 = european_caucasian_northern_blond_15
+		2 = steppe_volga_finn_mordvin_17
+		3 = european_caucasian_northern_blond_16
+		2 = steppe_volga_finn_mordvin_18
+		3 = european_caucasian_northern_blond_17
+		2 = steppe_volga_finn_mordvin_19
+		3 = european_caucasian_northern_blond_18
+		2 = steppe_volga_finn_mordvin_20
+		3 = european_caucasian_northern_blond_19
+		2 = steppe_volga_finn_mordvin_21
+		3 = european_caucasian_northern_blond_20
+		2 = steppe_volga_finn_mordvin_22
+		3 = european_caucasian_northern_blond_21
+		2 = steppe_volga_finn_mordvin_23
+		3 = european_caucasian_northern_blond_22
+		2 = steppe_volga_finn_mordvin_24
+		5 = european_caucasian_northern_ginger_1
+		2 = steppe_volga_finn_mordvin_25
+		5 = european_caucasian_northern_ginger_2
+		2 = steppe_volga_finn_mordvin_26
+		5 = european_caucasian_northern_ginger_3
+		2 = steppe_volga_finn_mordvin_27
+		3 = european_caucasian_northern_brown_1
+		2 = steppe_volga_finn_mordvin_28
+		3 = european_caucasian_northern_brown_2
+		2 = steppe_volga_finn_mordvin_29
+		3 = european_caucasian_northern_brown_3
+		2 = steppe_volga_finn_mordvin_30
+		3 = european_caucasian_northern_brown_4
+		2 = steppe_volga_finn_mordvin_31
+		3 = european_caucasian_northern_brown_5
+		2 = steppe_volga_finn_mordvin_32
+		3 = european_caucasian_northern_brown_6
+		2 = steppe_volga_finn_mordvin_33
+		3 = european_caucasian_northern_brown_7
+		2 = steppe_volga_finn_mordvin_34
+		3 = european_caucasian_northern_brown_8
+		2 = steppe_volga_finn_mordvin_35
+		5 = european_caucasian_northern_dark_1
+		2 = steppe_volga_finn_mordvin_36
+		5 = european_caucasian_northern_dark_2
+		2 = steppe_volga_finn_mordvin_37
+		5 = european_caucasian_northern_dark_3
+		2 = steppe_volga_finn_mordvin_38
+		5 = european_caucasian_northern_dark_4
+		2 = steppe_volga_finn_mordvin_39
+	}
+}
+
+tavastian = {  # Tavastian / Häme
+	color = { 0.2 0.7 0.5 }
+	created = 350.1.1
+	parents = { fenni }
+	ethos = ethos_communal
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+
+	traditions = {
+		tradition_forest_wardens
+		tradition_fishermen
+		tradition_tribe_unity
+	}
+
+	name_list = name_list_finnish
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+	ethnicities = {
+		10 = circumpolar_dark_hair
+		10 = circumpolar_brown_hair
+		10 = circumpolar_blonde_hair
+		2 = steppe_volga_finn_mordvin_01
+		2 = steppe_volga_finn_mordvin_02 
+		2 = steppe_volga_finn_mordvin_03
+		2 = steppe_volga_finn_mordvin_04
+		2 = steppe_volga_finn_mordvin_05
+		2 = steppe_volga_finn_mordvin_06
+		2 = steppe_volga_finn_mordvin_07
+		2 = steppe_volga_finn_mordvin_08
+		2 = steppe_volga_finn_mordvin_09
+		2 = steppe_volga_finn_mordvin_10
+		2 = steppe_volga_finn_mordvin_11
+		2 = steppe_volga_finn_mordvin_12
+		2 = steppe_volga_finn_mordvin_13
+		2 = steppe_volga_finn_mordvin_14
+		2 = steppe_volga_finn_mordvin_15
+		2 = steppe_volga_finn_mordvin_16
+		2 = steppe_volga_finn_mordvin_17
+		2 = steppe_volga_finn_mordvin_18
+		2 = steppe_volga_finn_mordvin_19
+		2 = steppe_volga_finn_mordvin_20
+		2 = steppe_volga_finn_mordvin_21
+		2 = steppe_volga_finn_mordvin_22
+		2 = steppe_volga_finn_mordvin_23
+		2 = steppe_volga_finn_mordvin_24
+		2 = steppe_volga_finn_mordvin_25
+		2 = steppe_volga_finn_mordvin_26
+		2 = steppe_volga_finn_mordvin_27
+		2 = steppe_volga_finn_mordvin_28
+		2 = steppe_volga_finn_mordvin_29
+		2 = steppe_volga_finn_mordvin_30
+		2 = steppe_volga_finn_mordvin_31
+		2 = steppe_volga_finn_mordvin_32
+		2 = steppe_volga_finn_mordvin_33
+		2 = steppe_volga_finn_mordvin_34
+		2 = steppe_volga_finn_mordvin_35
+		2 = steppe_volga_finn_mordvin_36
+		2 = steppe_volga_finn_mordvin_37
+		2 = steppe_volga_finn_mordvin_38
+		2 = steppe_volga_finn_mordvin_39
+	}
+}
+
+estonian = {
+	color = { 0.3 0.7 0.7 }
+	created = 350.1.1
+	parents = { fenni }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_balto_finnic
+	language = language_estonian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_music_theory
+		tradition_varangians
+	}
+	
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+	
+	name_list = name_list_estonian
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+	ethnicities = {
+		10 = circumpolar_dark_hair
+		10 = circumpolar_brown_hair
+		10 = circumpolar_blonde_hair
+		2 = steppe_volga_finn_mordvin_01
+		2 = steppe_volga_finn_mordvin_02 
+		2 = steppe_volga_finn_mordvin_03
+		2 = steppe_volga_finn_mordvin_04
+		2 = steppe_volga_finn_mordvin_05
+		2 = steppe_volga_finn_mordvin_06
+		2 = steppe_volga_finn_mordvin_07
+		2 = steppe_volga_finn_mordvin_08
+		2 = steppe_volga_finn_mordvin_09
+		2 = steppe_volga_finn_mordvin_10
+		2 = steppe_volga_finn_mordvin_11
+		2 = steppe_volga_finn_mordvin_12
+		2 = steppe_volga_finn_mordvin_13
+		2 = steppe_volga_finn_mordvin_14
+		2 = steppe_volga_finn_mordvin_15
+		2 = steppe_volga_finn_mordvin_16
+		2 = steppe_volga_finn_mordvin_17
+		2 = steppe_volga_finn_mordvin_18
+		2 = steppe_volga_finn_mordvin_19
+		2 = steppe_volga_finn_mordvin_20
+		2 = steppe_volga_finn_mordvin_21
+		2 = steppe_volga_finn_mordvin_22
+		2 = steppe_volga_finn_mordvin_23
+		2 = steppe_volga_finn_mordvin_24
+		2 = steppe_volga_finn_mordvin_25
+		2 = steppe_volga_finn_mordvin_26
+		2 = steppe_volga_finn_mordvin_27
+		2 = steppe_volga_finn_mordvin_28
+		2 = steppe_volga_finn_mordvin_29
+		2 = steppe_volga_finn_mordvin_30
+		2 = steppe_volga_finn_mordvin_31
+		2 = steppe_volga_finn_mordvin_32
+		2 = steppe_volga_finn_mordvin_33
+		2 = steppe_volga_finn_mordvin_34
+		2 = steppe_volga_finn_mordvin_35
+		2 = steppe_volga_finn_mordvin_36
+		2 = steppe_volga_finn_mordvin_37
+		2 = steppe_volga_finn_mordvin_38
+		2 = steppe_volga_finn_mordvin_39
+	}
+}
+
+livonian = {
+	color = { 0.4 0.8 0.8 }
+	created = 350.1.1
+	parents = { fenni }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_balto_finnic
+	language = language_estonian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_stalwart_defenders
+		tradition_forest_wardens
+		tradition_fishermen
+		tradition_varangians
+	}
+	
+	name_list = name_list_livonian
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+	ethnicities = {
+		25 = circumpolar_dark_hair
+		2 = steppe_volga_finn_mordvin_01
+		25 = circumpolar_brown_hair
+		2 = steppe_volga_finn_mordvin_02 
+		25 = circumpolar_blonde_hair
+		2 = steppe_volga_finn_mordvin_03
+		6 = european_caucasian_northern_blond_1
+		2 = steppe_volga_finn_mordvin_04
+		5 = european_caucasian_northern_blond_2
+		2 = steppe_volga_finn_mordvin_05
+		6 = european_caucasian_northern_blond_3
+		2 = steppe_volga_finn_mordvin_06
+		6 = european_caucasian_northern_blond_4
+		2 = steppe_volga_finn_mordvin_07
+		5 = european_caucasian_northern_blond_5
+		2 = steppe_volga_finn_mordvin_08
+		6 = european_caucasian_northern_blond_6
+		2 = steppe_volga_finn_mordvin_09
+		5 = european_caucasian_northern_blond_7_baltic
+		2 = steppe_volga_finn_mordvin_10
+		3 = european_caucasian_northern_blond_9
+		2 = steppe_volga_finn_mordvin_11
+		3 = european_caucasian_northern_blond_10
+		2 = steppe_volga_finn_mordvin_12
+		3 = european_caucasian_northern_blond_11
+		2 = steppe_volga_finn_mordvin_13
+		3 = european_caucasian_northern_blond_12
+		2 = steppe_volga_finn_mordvin_14
+		3 = european_caucasian_northern_blond_13
+		2 = steppe_volga_finn_mordvin_15
+		3 = european_caucasian_northern_blond_14
+		2 = steppe_volga_finn_mordvin_16
+		3 = european_caucasian_northern_blond_15
+		2 = steppe_volga_finn_mordvin_17
+		3 = european_caucasian_northern_blond_16
+		2 = steppe_volga_finn_mordvin_18
+		3 = european_caucasian_northern_blond_17
+		2 = steppe_volga_finn_mordvin_19
+		3 = european_caucasian_northern_blond_18
+		2 = steppe_volga_finn_mordvin_20
+		3 = european_caucasian_northern_blond_19
+		2 = steppe_volga_finn_mordvin_21
+		3 = european_caucasian_northern_blond_20
+		2 = steppe_volga_finn_mordvin_22
+		3 = european_caucasian_northern_blond_21
+		2 = steppe_volga_finn_mordvin_23
+		3 = european_caucasian_northern_blond_22
+		2 = steppe_volga_finn_mordvin_24
+		5 = european_caucasian_northern_ginger_1
+		2 = steppe_volga_finn_mordvin_25
+		5 = european_caucasian_northern_ginger_2
+		2 = steppe_volga_finn_mordvin_26
+		5 = european_caucasian_northern_ginger_3
+		2 = steppe_volga_finn_mordvin_27
+		3 = european_caucasian_northern_brown_1
+		2 = steppe_volga_finn_mordvin_28
+		3 = european_caucasian_northern_brown_2
+		2 = steppe_volga_finn_mordvin_29
+		3 = european_caucasian_northern_brown_3
+		2 = steppe_volga_finn_mordvin_30
+		3 = european_caucasian_northern_brown_4
+		2 = steppe_volga_finn_mordvin_31
+		3 = european_caucasian_northern_brown_5
+		2 = steppe_volga_finn_mordvin_32
+		3 = european_caucasian_northern_brown_6
+		2 = steppe_volga_finn_mordvin_33
+		3 = european_caucasian_northern_brown_7
+		2 = steppe_volga_finn_mordvin_34
+		3 = european_caucasian_northern_brown_8
+		2 = steppe_volga_finn_mordvin_35
+		5 = european_caucasian_northern_dark_1
+		2 = steppe_volga_finn_mordvin_36
+		5 = european_caucasian_northern_dark_2
+		2 = steppe_volga_finn_mordvin_37
+		5 = european_caucasian_northern_dark_3
+		2 = steppe_volga_finn_mordvin_38
+		5 = european_caucasian_northern_dark_4
+		2 = steppe_volga_finn_mordvin_39
+	}
+}
+
+karelian = {
+	color = { 0.15 0.85 0.85 }
+	created = 350.1.1
+	parents = { fenni }
+	
+	ethos = ethos_stoic
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stalwart_defenders
+		tradition_forest_wardens
+		tradition_swords_for_hire
+	}
+
+	name_list = name_list_karelian
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+	ethnicities = {
+		2 = steppe_volga_finn_mordvin_01
+		2 = steppe_volga_finn_mordvin_02 
+		2 = steppe_volga_finn_mordvin_03
+		2 = steppe_volga_finn_mordvin_04
+		2 = steppe_volga_finn_mordvin_05
+		2 = steppe_volga_finn_mordvin_06
+		2 = steppe_volga_finn_mordvin_07
+		2 = steppe_volga_finn_mordvin_08
+		2 = steppe_volga_finn_mordvin_09
+		2 = steppe_volga_finn_mordvin_10
+		2 = steppe_volga_finn_mordvin_11
+		2 = steppe_volga_finn_mordvin_12
+		2 = steppe_volga_finn_mordvin_13
+		2 = steppe_volga_finn_mordvin_14
+		2 = steppe_volga_finn_mordvin_15
+		2 = steppe_volga_finn_mordvin_16
+		2 = steppe_volga_finn_mordvin_17
+		2 = steppe_volga_finn_mordvin_18
+		2 = steppe_volga_finn_mordvin_19
+		2 = steppe_volga_finn_mordvin_20
+		2 = steppe_volga_finn_mordvin_21
+		2 = steppe_volga_finn_mordvin_22
+		2 = steppe_volga_finn_mordvin_23
+		2 = steppe_volga_finn_mordvin_24
+		2 = steppe_volga_finn_mordvin_25
+		2 = steppe_volga_finn_mordvin_26
+		2 = steppe_volga_finn_mordvin_27
+		2 = steppe_volga_finn_mordvin_28
+		2 = steppe_volga_finn_mordvin_29
+		2 = steppe_volga_finn_mordvin_30
+		2 = steppe_volga_finn_mordvin_31
+		2 = steppe_volga_finn_mordvin_32
+		2 = steppe_volga_finn_mordvin_33
+		2 = steppe_volga_finn_mordvin_34
+		2 = steppe_volga_finn_mordvin_35
+		2 = steppe_volga_finn_mordvin_36
+		2 = steppe_volga_finn_mordvin_37
+		2 = steppe_volga_finn_mordvin_38
+		2 = steppe_volga_finn_mordvin_39
+	}
+}
+
+chudic = {
+	color = { 0.1 0.5 0.5 }
+	created = 350.1.1
+	parents = { fenni }
+	
+	ethos = ethos_stoic
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_music_theory
+		tradition_welcoming # Cybr: Chudes are described in Russian sources as exalted and white-eyed
+		tradition_forbearing # Cybr: resistance to Russian attacks ????
+	}
+	
+	name_list = name_list_finnish
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+	ethnicities = {
+		10 = circumpolar_dark_hair
+		10 = circumpolar_brown_hair
+		10 = circumpolar_blonde_hair
+		5 = european_slavic_northern_blond_1
+		5 = european_slavic_northern_blond_2
+		2 = steppe_volga_finn_mordvin_01
+		5 = european_slavic_northern_blond_3
+		5 = european_slavic_northern_blond_4
+		2 = steppe_volga_finn_mordvin_02
+		5 = european_slavic_northern_blond_5
+		5 = european_caucasian_northern_blond_8
+		2 = steppe_volga_finn_mordvin_03
+		4 = european_slavic_northern_ginger_1
+		4 = european_slavic_northern_ginger_2
+		2 = steppe_volga_finn_mordvin_04
+		6 = european_slavic_northern_brown_1
+		6 = european_slavic_northern_brown_2
+		2 = steppe_volga_finn_mordvin_05
+		6 = european_slavic_northern_dark_1
+		6 = european_slavic_northern_dark_2
+		2 = steppe_volga_finn_mordvin_06
+		2 = european_eastern_slavic_1
+		2 = european_eastern_slavic_2
+		2 = steppe_volga_finn_mordvin_07
+		2 = european_eastern_slavic_3
+		2 = european_eastern_slavic_4
+		2 = steppe_volga_finn_mordvin_08
+		2 = european_eastern_slavic_5
+		2 = european_eastern_slavic_6
+		2 = steppe_volga_finn_mordvin_09
+		2 = european_eastern_slavic_7
+		2 = european_eastern_slavic_8
+		2 = steppe_volga_finn_mordvin_10
+		2 = european_eastern_slavic_9
+		2 = european_eastern_slavic_10
+		2 = steppe_volga_finn_mordvin_11
+		2 = european_eastern_slavic_11
+		2 = european_eastern_slavic_12
+		2 = steppe_volga_finn_mordvin_12
+		2 = european_eastern_slavic_13
+		2 = european_eastern_slavic_14
+		2 = steppe_volga_finn_mordvin_13
+		2 = european_eastern_slavic_15
+		2 = european_eastern_slavic_16
+		2 = steppe_volga_finn_mordvin_14
+		2 = european_eastern_slavic_17
+		2 = european_eastern_slavic_18
+		2 = steppe_volga_finn_mordvin_15
+		2 = european_eastern_slavic_19
+		2 = european_eastern_slavic_20
+		2 = steppe_volga_finn_mordvin_16
+		2 = european_eastern_slavic_21
+		2 = european_eastern_slavic_22
+		2 = steppe_volga_finn_mordvin_17
+		2 = european_eastern_slavic_23
+		2 = european_eastern_slavic_24
+		2 = steppe_volga_finn_mordvin_18
+		2 = european_eastern_slavic_25
+		2 = european_eastern_slavic_26
+		2 = steppe_volga_finn_mordvin_19
+		2 = european_eastern_slavic_27
+		2 = european_eastern_slavic_28
+		2 = steppe_volga_finn_mordvin_20
+		2 = european_eastern_slavic_29
+		2 = european_eastern_slavic_30
+		2 = steppe_volga_finn_mordvin_21
+		2 = european_eastern_slavic_31
+		2 = steppe_volga_finn_mordvin_22
+		2 = european_eastern_slavic_32
+		2 = steppe_volga_finn_mordvin_23
+		2 = european_eastern_slavic_33
+		2 = steppe_volga_finn_mordvin_24
+		2 = european_eastern_slavic_34
+		2 = steppe_volga_finn_mordvin_25
+		2 = european_eastern_slavic_35
+		2 = steppe_volga_finn_mordvin_26
+		2 = european_eastern_slavic_36
+		2 = steppe_volga_finn_mordvin_27
+		2 = european_eastern_slavic_37
+		2 = steppe_volga_finn_mordvin_28
+		2 = european_eastern_slavic_38
+		2 = steppe_volga_finn_mordvin_29
+		2 = european_eastern_slavic_39
+		2 = steppe_volga_finn_mordvin_30
+		2 = european_eastern_slavic_40
+		2 = steppe_volga_finn_mordvin_31
+		2 = european_eastern_slavic_41
+		2 = steppe_volga_finn_mordvin_32
+		2 = european_eastern_slavic_42
+		2 = steppe_volga_finn_mordvin_33
+		2 = european_eastern_slavic_43
+		2 = steppe_volga_finn_mordvin_34
+		2 = european_eastern_slavic_44
+		2 = steppe_volga_finn_mordvin_35
+		2 = european_eastern_slavic_45
+		2 = steppe_volga_finn_mordvin_36
+		2 = european_eastern_slavic_46
+		2 = steppe_volga_finn_mordvin_37
+		2 = european_eastern_slavic_47
+		2 = steppe_volga_finn_mordvin_38
+		2 = european_eastern_slavic_48
+		2 = steppe_volga_finn_mordvin_39
+		2 = european_eastern_slavic_49
+	}
+}
+
+fenni = {
+	color = { 0.0 0.5 0.5 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_isolationist
+		tradition_fishermen
+	}
+	
+	name_list = name_list_finnish
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+	ethnicities = {
+		2 = steppe_volga_finn_mordvin_01
+		2 = steppe_volga_finn_mordvin_02 
+		2 = steppe_volga_finn_mordvin_03
+		2 = steppe_volga_finn_mordvin_04
+		2 = steppe_volga_finn_mordvin_05
+		2 = steppe_volga_finn_mordvin_06
+		2 = steppe_volga_finn_mordvin_07
+		2 = steppe_volga_finn_mordvin_08
+		2 = steppe_volga_finn_mordvin_09
+		2 = steppe_volga_finn_mordvin_10
+		2 = steppe_volga_finn_mordvin_11
+		2 = steppe_volga_finn_mordvin_12
+		2 = steppe_volga_finn_mordvin_13
+		2 = steppe_volga_finn_mordvin_14
+		2 = steppe_volga_finn_mordvin_15
+		2 = steppe_volga_finn_mordvin_16
+		2 = steppe_volga_finn_mordvin_17
+		2 = steppe_volga_finn_mordvin_18
+		2 = steppe_volga_finn_mordvin_19
+		2 = steppe_volga_finn_mordvin_20
+		2 = steppe_volga_finn_mordvin_21
+		2 = steppe_volga_finn_mordvin_22
+		2 = steppe_volga_finn_mordvin_23
+		2 = steppe_volga_finn_mordvin_24
+		2 = steppe_volga_finn_mordvin_25
+		2 = steppe_volga_finn_mordvin_26
+		2 = steppe_volga_finn_mordvin_27
+		2 = steppe_volga_finn_mordvin_28
+		2 = steppe_volga_finn_mordvin_29
+		2 = steppe_volga_finn_mordvin_30
+		2 = steppe_volga_finn_mordvin_31
+		2 = steppe_volga_finn_mordvin_32
+		2 = steppe_volga_finn_mordvin_33
+		2 = steppe_volga_finn_mordvin_34
+		2 = steppe_volga_finn_mordvin_35
+		2 = steppe_volga_finn_mordvin_36
+		2 = steppe_volga_finn_mordvin_37
+		2 = steppe_volga_finn_mordvin_38
+		2 = steppe_volga_finn_mordvin_39
+	}
+}

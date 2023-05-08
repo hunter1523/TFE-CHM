@@ -1,0 +1,154 @@
+﻿# Several groups in this file have extremely little available evidence to go off of, and so are more educated guesses than we'd like. They should be updated comprehensively when we can. Specifically:
+	# * Komi
+
+mari = { #
+	color = { 0.45 0.55 0.85 }
+	
+	ethos = ethos_communal
+	heritage = heritage_ugro_permian
+	language = language_ugro_permian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_frugal_armorsmiths
+	}
+	
+	name_list = name_list_komi
+	
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		2 = circumpolar_dark_hair
+		2 = circumpolar_brown_hair
+		2 = steppe_volga_finn_mordvin_01
+		2 = siberian_siberian_01
+		2 = steppe_volga_finn_mordvin_02 
+		2 = siberian_siberian_02
+		2 = steppe_volga_finn_mordvin_03
+		2 = siberian_siberian_03
+		2 = steppe_volga_finn_mordvin_04
+		2 = siberian_siberian_04
+		2 = steppe_volga_finn_mordvin_05 
+		2 = siberian_siberian_05
+		2 = steppe_volga_finn_mordvin_06
+		2 = siberian_siberian_06
+		2 = steppe_volga_finn_mordvin_07 
+		2 = siberian_siberian_07
+		2 = steppe_volga_finn_mordvin_08
+		2 = siberian_siberian_08
+		2 = steppe_volga_finn_mordvin_09
+		2 = siberian_siberian_09
+		2 = steppe_volga_finn_mordvin_10
+		2 = siberian_siberian_10
+		2 = steppe_volga_finn_mordvin_11
+		2 = siberian_siberian_11
+		2 = steppe_volga_finn_mordvin_12
+		2 = siberian_siberian_12
+		2 = steppe_volga_finn_mordvin_13
+		2 = siberian_siberian_13
+		2 = steppe_volga_finn_mordvin_14
+		2 = siberian_siberian_14
+		2 = steppe_volga_finn_mordvin_15
+		2 = siberian_siberian_15
+		2 = steppe_volga_finn_mordvin_16
+		2 = siberian_siberian_16
+		2 = steppe_volga_finn_mordvin_17
+		2 = siberian_siberian_17
+		2 = steppe_volga_finn_mordvin_18
+		2 = siberian_siberian_18
+		2 = steppe_volga_finn_mordvin_19
+		2 = siberian_siberian_19
+		2 = steppe_volga_finn_mordvin_20
+		2 = siberian_siberian_20
+		2 = steppe_volga_finn_mordvin_21
+		2 = siberian_siberian_21
+		2 = steppe_volga_finn_mordvin_22
+		2 = siberian_siberian_22
+		2 = steppe_volga_finn_mordvin_23
+		2 = siberian_siberian_23
+		2 = steppe_volga_finn_mordvin_24
+		2 = siberian_siberian_24
+		2 = steppe_volga_finn_mordvin_25
+		2 = siberian_siberian_25
+		2 = steppe_volga_finn_mordvin_26
+		2 = steppe_volga_finn_mordvin_27
+		2 = steppe_volga_finn_mordvin_28
+		2 = steppe_volga_finn_mordvin_29
+		2 = steppe_volga_finn_mordvin_30
+		2 = steppe_volga_finn_mordvin_31
+		2 = steppe_volga_finn_mordvin_32
+		2 = steppe_volga_finn_mordvin_33
+		2 = steppe_volga_finn_mordvin_34
+		2 = steppe_volga_finn_mordvin_35
+		2 = steppe_volga_finn_mordvin_36
+		2 = steppe_volga_finn_mordvin_37
+		2 = steppe_volga_finn_mordvin_38
+		2 = steppe_volga_finn_mordvin_39
+	}
+}
+ugrian = { #
+	color = { 0.3 0.87 0.21 }
+	
+	ethos = ethos_communal
+	heritage = heritage_ugro_permian
+	language = language_ugro_permian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_frugal_armorsmiths
+	}
+	
+	name_list = name_list_komi
+	
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		2 = circumpolar_dark_hair
+		2 = circumpolar_brown_hair
+		2 = steppe_volga_finn_mordvin_01
+		2 = steppe_volga_finn_mordvin_02 
+		2 = steppe_volga_finn_mordvin_03   
+		2 = steppe_volga_finn_mordvin_04  
+		2 = steppe_volga_finn_mordvin_05 
+		2 = steppe_volga_finn_mordvin_06
+		2 = steppe_volga_finn_mordvin_07 
+		2 = steppe_volga_finn_mordvin_08
+		2 = steppe_volga_finn_mordvin_09
+		2 = steppe_volga_finn_mordvin_10
+		2 = steppe_volga_finn_mordvin_11
+		2 = steppe_volga_finn_mordvin_12
+		2 = steppe_volga_finn_mordvin_13
+		2 = steppe_volga_finn_mordvin_14
+		2 = steppe_volga_finn_mordvin_15
+		2 = steppe_volga_finn_mordvin_16
+		2 = steppe_volga_finn_mordvin_17
+		2 = steppe_volga_finn_mordvin_18
+		2 = steppe_volga_finn_mordvin_19
+		2 = steppe_volga_finn_mordvin_20
+		2 = steppe_volga_finn_mordvin_21
+		2 = steppe_volga_finn_mordvin_22
+		2 = steppe_volga_finn_mordvin_23
+		2 = steppe_volga_finn_mordvin_24
+		2 = steppe_volga_finn_mordvin_25
+		2 = steppe_volga_finn_mordvin_26
+		2 = steppe_volga_finn_mordvin_27
+		2 = steppe_volga_finn_mordvin_28
+		2 = steppe_volga_finn_mordvin_29
+		2 = steppe_volga_finn_mordvin_30
+		2 = steppe_volga_finn_mordvin_31
+		2 = steppe_volga_finn_mordvin_32
+		2 = steppe_volga_finn_mordvin_33
+		2 = steppe_volga_finn_mordvin_34
+		2 = steppe_volga_finn_mordvin_35
+		2 = steppe_volga_finn_mordvin_36
+		2 = steppe_volga_finn_mordvin_37
+		2 = steppe_volga_finn_mordvin_38
+		2 = steppe_volga_finn_mordvin_39
+	}
+}
